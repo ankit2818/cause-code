@@ -140,6 +140,6 @@ Replace the **secretOrKey** in `/config/keys.js` with your own secret key.
     ❖ You can search a particular user by username, email by id as well
     ❖ Dashboard which shows the records of user
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Author <a name = "authors"></a>
 
 - [@Ankit Vishwakarma](https://github.com/ankit2818) - Cause-Code
