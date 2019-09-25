@@ -88,7 +88,7 @@ router.delete(
               .status(401)
               .json({ notAuthorized: "User not authorized" });
           }
-          Post.remove().then(() => res.json({ success: true }));
+          post.remove().then(() => res.json({ success: true }));
         })
         .catch(err => res.status(404).json({ postNotFound: "No Post Found" }));
     });
