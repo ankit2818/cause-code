@@ -30,9 +30,10 @@ Replace the **secretOrKey** in `/config/keys.js` with your own secret key.
 
 - Clone this repo: `git clone https://github.com/ankit2818/cause-code.git`
 - Change directory: `cd cause-code`
-- Install required modules: `npm install`
-- To run server: `npm run server`\
-  Server should be started on [Localhost:5000](http://localhost:5000/api/users/register)
+- Install required modules for server: `npm install`
+- Install required modules for client: `npm run client-install`
+- To run development server: `npm run dev`\
+  Server should be started on `Localhost:5000` and client server should be started on [Localhost:3000](http://localhost:3000/api/users/register)
 
 ## 🧐 CauseCode Coding Challenge <a name = "Create a small social network"></a>
 
@@ -53,7 +54,19 @@ Replace the **secretOrKey** in `/config/keys.js` with your own secret key.
 
 # Screenshots <a name = "Screenshots"></a>
 
-- will be added later
+<img src="screenshots/Home%20Page.png" width="25%"></img>
+<img src="screenshots/Sign%20Up.png" width="25%"></img>
+<img src="screenshots/Sign%20In.png" width="25%"></img>
+<img src="screenshots/Dashboard%20-%20Create%20Profile.png" width="25%"></img>
+<img src="screenshots/Create-Profile.png" width="25%"></img>
+<img src="screenshots/Dashboard.png" width="25%"></img>
+<img src="screenshots/Edit-Profile.png" width="25%"></img>
+<img src="screenshots/AddExperience.png" width="25%"></img>
+<img src="screenshots/AddEducation.png" width="25%"></img>
+<img src="screenshots/Profiles.png" width="25%"></img>
+<img src="screenshots/SingleProfileView.png" width="25%"></img>
+<img src="screenshots/Post%20Feed.png" width="25%"></img>
+<img src="screenshots/Comments.png" width="25%"></img>
 
 # Features:
 

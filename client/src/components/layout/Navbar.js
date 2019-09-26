@@ -38,7 +38,7 @@ class Navbar extends Component {
               alt={user.name}
               className="rounded-circle"
               style={{ width: "25px", marginRight: "5px" }}
-              title="You must have a gravatar connected to your email to display an image"
+              title={user.name}
             />{" "}
             Logout
           </a>
