@@ -59,10 +59,10 @@ Replace the **secretOrKey** in `/config/keys.js` with your own secret key.
 <img src="screenshots/Sign%20In.png"></img>
 <img src="screenshots/Dashboard%20-%20Create%20Profile.png"></img>
 <img src="screenshots/Create-Profile.png"></img>
-<img src="screenshots/Dashboard.png"></img>
-<img src="screenshots/EditProfile.png"></img>
 <img src="screenshots/AddExperience.png"></img>
 <img src="screenshots/AddEducation.png"></img>
+<img src="screenshots/Dashboard.png"></img>
+<img src="screenshots/EditProfile.png"></img>
 <img src="screenshots/Profiles.png"></img>
 <img src="screenshots/SingleProfileView.png"></img>
 <img src="screenshots/Post%20Feed.png"></img>
