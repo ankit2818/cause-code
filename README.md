@@ -54,19 +54,19 @@ Replace the **secretOrKey** in `/config/keys.js` with your own secret key.
 
 # Screenshots <a name = "Screenshots"></a>
 
-<img src="screenshots/Home%20Page.png" width="25%"></img>
-<img src="screenshots/Sign%20Up.png" width="25%"></img>
-<img src="screenshots/Sign%20In.png" width="25%"></img>
-<img src="screenshots/Dashboard%20-%20Create%20Profile.png" width="25%"></img>
-<img src="screenshots/Create-Profile.png" width="25%"></img>
-<img src="screenshots/Dashboard.png" width="25%"></img>
-<img src="screenshots/Edit-Profile.png" width="25%"></img>
-<img src="screenshots/AddExperience.png" width="25%"></img>
-<img src="screenshots/AddEducation.png" width="25%"></img>
-<img src="screenshots/Profiles.png" width="25%"></img>
-<img src="screenshots/SingleProfileView.png" width="25%"></img>
-<img src="screenshots/Post%20Feed.png" width="25%"></img>
-<img src="screenshots/Comments.png" width="25%"></img>
+<img src="screenshots/Home%20Page.png"></img>
+<img src="screenshots/Sign%20Up.png"></img>
+<img src="screenshots/Sign%20In.png"></img>
+<img src="screenshots/Dashboard%20-%20Create%20Profile.png"></img>
+<img src="screenshots/Create-Profile.png"></img>
+<img src="screenshots/Dashboard.png"></img>
+<img src="screenshots/EditProfile.png"></img>
+<img src="screenshots/AddExperience.png"></img>
+<img src="screenshots/AddEducation.png"></img>
+<img src="screenshots/Profiles.png"></img>
+<img src="screenshots/SingleProfileView.png"></img>
+<img src="screenshots/Post%20Feed.png"></img>
+<img src="screenshots/Comments.png"></img>
 
 # Features:
 
