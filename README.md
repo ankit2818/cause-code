@@ -21,11 +21,6 @@
 - [ReactJS](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 
-### Configuration:
-
-Replace the **mongoURI** in `/config/keys.js` with URI of your database.
-Replace the **secretOrKey** in `/config/keys.js` with your own secret key.
-
 ### Get started:
 
 - Clone this repo: `git clone https://github.com/ankit2818/cause-code.git`
@@ -34,6 +29,11 @@ Replace the **secretOrKey** in `/config/keys.js` with your own secret key.
 - Install required modules for client: `npm run client-install`
 - To run development server: `npm run dev`\
   Server should be started on `Localhost:5000` and client server should be started on [Localhost:3000](http://localhost:3000/api/users/register)
+
+### Configuration:
+
+Replace the **mongoURI** in `/config/keys.js` with URI of your database.
+Replace the **secretOrKey** in `/config/keys.js` with your own secret key.
 
 ## 🧐 CauseCode Coding Challenge <a name = "Create a small social network"></a>
 
@@ -78,14 +78,10 @@ Replace the **secretOrKey** in `/config/keys.js` with your own secret key.
 
     ❖ Registration
     ❖ Login
-    ❖ Update your profile picture and personal details anytime
-    ❖ Tools to create posts
-    ❖ Like, comment
-    ❖ Post is seen
-    ❖ View Post by a user
-    ❖ Shows Number of likes and comments
-    ❖ Onclick post, single page view of post with all the comments on it
-    ❖ You can search a particular user by username, email by id as well
+    ❖ Update your personal details anytime
+    ❖ Create posts, like posts, comment
+    ❖ Shows Number of likes and all comments
+    ❖ Onclick post, single page view of post with all the comments in it
     ❖ Dashboard which shows the records of user
 
 ## ✍️ Author <a name = "authors"></a>
