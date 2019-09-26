@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: "Add Your Own",
-  secretOrKey: "Add Your Own"
+  mongoURI: "mongodb://127.0.0.1:27017/cause-code",
+  secretOrKey: "zhulie"
 };
